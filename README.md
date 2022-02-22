@@ -1,10 +1,5 @@
 ### Olá! Eu sou a dev Sarah Ramos, seja bem vinde ao meu perfil!
 
-
-
-- 🌱 Estudante na Generation Brasil
-- 😄 Pronomes: Ela/dela
-
  ## Tecnologias que estou estudando
  
  <div style="display:  inline_block">
@@ -32,7 +27,7 @@
  
   </div><br/>
   
-   ## Total de visitas no meu perfil :sunflower: <br>
+   ## Total de visitas no meu perfil <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/mayaratlt/count.svg" />
  </p>
