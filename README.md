@@ -1,11 +1,11 @@
-### Olá! Eu sou a dev Sarah Ramos, seja bem vinde ao meu perfil!
+### Olá! Eu sou a dev Sarah Ramos, seja bem vinde ao meu perfil! :+1:
 
 :computer: I'm Full Stack Developer!
 
 :house_with_garden: I’m from Brazil.
 
 
- ## Tecnologias que estou estudando
+ ## Tecnologias que estou estudando :earth_americas:
  
  <div style="display:  inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -26,7 +26,7 @@
  
   </div><br/>
   
-   ## Total de visitas no meu perfil <br>
+   ## Total de visitas no meu perfil <br> :eyes:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/mayaratlt/count.svg" />
  </p>
