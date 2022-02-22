@@ -1,5 +1,10 @@
 ### Olá! Eu sou a dev Sarah Ramos, seja bem vinde ao meu perfil!
 
+:computer: I'm Full Stack Developer!
+
+:house_with_garden: I’m from Brazil.
+
+
  ## Tecnologias que estou estudando
  
  <div style="display:  inline_block">
@@ -29,6 +34,4 @@
 </p>
 
  ![Snake animation](https://github.com/mayaratlt/mayaratlt/blob/output/github-contribution-grid-snake.svg)
- 
- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
   
